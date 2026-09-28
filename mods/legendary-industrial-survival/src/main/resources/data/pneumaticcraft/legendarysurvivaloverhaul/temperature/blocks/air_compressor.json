@@ -1,0 +1,4 @@
+[
+  { "properties": { "on": "false" }, "temperature": 0.0 },
+  { "properties": { "on": "true" }, "temperature": 3.0 }
+]

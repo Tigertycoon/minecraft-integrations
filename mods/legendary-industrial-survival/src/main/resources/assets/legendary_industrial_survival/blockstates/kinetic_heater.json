@@ -1,0 +1,8 @@
+{
+  "multipart": [
+    { "when": { "facing": "north" }, "apply": { "model": "legendary_industrial_survival:block/kinetic_heater" } },
+    { "when": { "facing": "east" }, "apply": { "model": "legendary_industrial_survival:block/kinetic_heater", "y": 90 } },
+    { "when": { "facing": "south" }, "apply": { "model": "legendary_industrial_survival:block/kinetic_heater", "y": 180 } },
+    { "when": { "facing": "west" }, "apply": { "model": "legendary_industrial_survival:block/kinetic_heater", "y": 270 } }
+  ]
+}

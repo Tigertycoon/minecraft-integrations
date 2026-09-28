@@ -1,0 +1,16 @@
+{
+  "block.legendary_industrial_survival.kinetic_heater": "Kinetisches Heizgerät",
+  "block.legendary_industrial_survival.kinetic_cooler": "Kinetisches Kühlgerät",
+  "item.legendary_industrial_survival.drink_upgrade": "Trink-Upgrade",
+  "item.legendary_industrial_survival.advanced_drink_upgrade": "Verbessertes Trink-Upgrade",
+  "item.legendary_industrial_survival.medigel": "Medigel",
+  "item.legendary_industrial_survival.nanite_injector": "Naniten-Injektor",
+  "module.legendary_industrial_survival.thermoregulator_unit": "Thermoregulator-Einheit",
+  "module.legendary_industrial_survival.hydration_unit": "Hydrationseinheit",
+  "module.legendary_industrial_survival.medical_treatment_unit": "Medizinische Behandlungseinheit",
+  "description.legendary_industrial_survival.thermoregulator_unit": "Reguliert die LSO-Körpertemperatur automatisch und verbraucht dabei Energie.",
+  "description.legendary_industrial_survival.hydration_unit": "Stellt automatisch LSO-Hydration wieder her und verbraucht dabei Energie.",
+  "description.legendary_industrial_survival.medical_treatment_unit": "Behandelt automatisch das am stärksten verletzte LSO-Körperteil.",
+  "gui.legendary_industrial_survival.drink_upgrade_conflict": "Es kann nur ein Trink-Upgrade installiert werden.",
+  "itemGroup.legendary_industrial_survival.main": "Legendary Industrial Survival"
+}

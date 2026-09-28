@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "minecraft:block/redstone_block",
+    "side": "create:block/copper_casing",
+    "top": "create:block/fan_side",
+    "particle": "create:block/copper_casing"
+  }
+}

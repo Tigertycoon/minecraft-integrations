@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " C ",
+    "SXP",
+    " I "
+  ],
+  "key": {
+    "C": { "item": "legendarysurvivaloverhaul:cooler" },
+    "S": { "item": "create:shaft" },
+    "X": { "item": "create:copper_casing" },
+    "P": { "item": "create:propeller" },
+    "I": { "item": "minecraft:iron_ingot" }
+  },
+  "result": {
+    "id": "legendary_industrial_survival:kinetic_cooler",
+    "count": 1
+  }
+}

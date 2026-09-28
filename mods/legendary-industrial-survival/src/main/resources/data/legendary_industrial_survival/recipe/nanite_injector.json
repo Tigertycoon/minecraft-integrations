@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "c:alloys/ultimate"
+    },
+    "G": {
+      "item": "legendary_industrial_survival:medigel"
+    },
+    "M": {
+      "item": "legendarysurvivaloverhaul:medkit"
+    },
+    "P": {
+      "tag": "c:pellets/polonium"
+    }
+  },
+  "pattern": [
+    "PAP",
+    "GMG",
+    "PAP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "legendary_industrial_survival:nanite_injector"
+  }
+}

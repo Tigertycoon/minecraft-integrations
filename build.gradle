@@ -1,0 +1,5 @@
+plugins { id 'base' }
+
+tasks.named('assemble') { dependsOn ':arcane:assemble', ':industrial:assemble' }
+tasks.named('check') { dependsOn ':arcane:check', ':industrial:check' }
+tasks.named('clean') { dependsOn ':arcane:clean', ':industrial:clean' }

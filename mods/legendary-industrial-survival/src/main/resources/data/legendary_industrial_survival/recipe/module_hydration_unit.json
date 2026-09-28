@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "c:alloys/elite"
+    },
+    "C": {
+      "item": "legendarysurvivaloverhaul:purified_water_bottle"
+    },
+    "H": {
+      "item": "mekanism:hdpe_sheet"
+    },
+    "P": {
+      "item": "mekanism:module_base"
+    }
+  },
+  "pattern": [
+    "ACA",
+    "APA",
+    "HHH"
+  ],
+  "result": {
+    "count": 1,
+    "id": "legendary_industrial_survival:module_hydration_unit"
+  }
+}

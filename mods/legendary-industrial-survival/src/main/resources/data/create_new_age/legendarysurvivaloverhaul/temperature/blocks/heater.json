@@ -1,0 +1,7 @@
+[
+  { "properties": { "blaze": "none" }, "temperature": 0.0 },
+  { "properties": { "blaze": "fading" }, "temperature": 2.0 },
+  { "properties": { "blaze": "smouldering" }, "temperature": 4.0 },
+  { "properties": { "blaze": "kindled" }, "temperature": 7.5 },
+  { "properties": { "blaze": "seething" }, "temperature": 10.0 }
+]

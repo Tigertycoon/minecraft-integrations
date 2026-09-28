@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "U": {
+      "item": "sophisticatedbackpacks:upgrade_base"
+    },
+    "W": {
+      "item": "legendarysurvivaloverhaul:purified_water_bottle"
+    }
+  },
+  "pattern": [
+    " L ",
+    "WUW",
+    " L "
+  ],
+  "result": {
+    "count": 1,
+    "id": "legendary_industrial_survival:drink_upgrade"
+  }
+}

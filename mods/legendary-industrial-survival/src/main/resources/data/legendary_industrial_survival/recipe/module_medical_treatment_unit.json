@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "c:alloys/ultimate"
+    },
+    "M": {
+      "item": "legendarysurvivaloverhaul:medkit"
+    },
+    "P": {
+      "item": "mekanism:module_base"
+    },
+    "Q": {
+      "tag": "c:pellets/polonium"
+    }
+  },
+  "pattern": [
+    "AMA",
+    "APA",
+    "QQQ"
+  ],
+  "result": {
+    "count": 1,
+    "id": "legendary_industrial_survival:module_medical_treatment_unit"
+  }
+}

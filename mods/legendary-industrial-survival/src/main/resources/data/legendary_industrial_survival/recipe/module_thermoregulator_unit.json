@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "c:alloys/elite"
+    },
+    "H": {
+      "item": "mekanism:hdpe_sheet"
+    },
+    "P": {
+      "item": "mekanism:module_base"
+    },
+    "T": {
+      "item": "legendarysurvivaloverhaul:thermometer"
+    }
+  },
+  "pattern": [
+    "ATA",
+    "APA",
+    "HHH"
+  ],
+  "result": {
+    "count": 1,
+    "id": "legendary_industrial_survival:module_thermoregulator_unit"
+  }
+}

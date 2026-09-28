@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " H ",
+    "SCP",
+    " I "
+  ],
+  "key": {
+    "H": { "item": "legendarysurvivaloverhaul:heater" },
+    "S": { "item": "create:shaft" },
+    "C": { "item": "create:copper_casing" },
+    "P": { "item": "create:propeller" },
+    "I": { "item": "minecraft:iron_ingot" }
+  },
+  "result": {
+    "id": "legendary_industrial_survival:kinetic_heater",
+    "count": 1
+  }
+}
